@@ -1,4 +1,4 @@
-** Python Fundementals Tutorial **
+# ** Python Fundementals Tutorial **
 Welcome to the Python Datastructures Fundementals Tutorial.
 Every beginner Python programmer should understand these basic topics:
 
