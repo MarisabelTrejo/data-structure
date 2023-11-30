@@ -10,3 +10,6 @@ Each item is in a dynamic array is next to an item in memory. This data structur
 2.	Set “next”of the new node to the current head
 3.	Set prev of the current head to the new node
 4.	Set the head to equal to the new node
+
+## Examples
+![example](Images/linkedlist.jpeg)
