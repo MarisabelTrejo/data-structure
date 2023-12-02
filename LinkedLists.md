@@ -15,10 +15,13 @@ Each item is in a dynamic array is next to an item in memory. This data structur
 ![example](Images/linkedlist.jpeg)
 
 ## Big O Notation
-Operation 	Dynamic Array	Linked List
-Insert Front	O(n)	  O(1)
-Insert Middle O(n)	  O(n)
-Insert End	  O(1)	  O(1)
-Remove Front	O(n)	  O(1)
-Remove Middle	O(n)	  O(n)
-Remove End	  O(1)	  O(1)
+When adding a new node or element in the beginning of the list, we perform a single operation and Big O will be constant time, or Big O(1), similar to removing a node. The only part that would be O(n) is when we are inserting or adding to the middle of the list.
+
+## Lets Work Together 
+Lets make a linked list together. We will practice inserting and removing steps from the recipe.
+
+
+## Problem to Solve
+Pretend you are updating your playlist and going through songs that you don't listen to anymore.
+Practice how we can remove from the middle of your playlist.
+
