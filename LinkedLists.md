@@ -13,3 +13,12 @@ Each item is in a dynamic array is next to an item in memory. This data structur
 
 ## Examples
 ![example](Images/linkedlist.jpeg)
+
+## Big O Notation
+Operation 	Dynamic Array	Linked List
+Insert Front	O(n)	  O(1)
+Insert Middle O(n)	  O(n)
+Insert End	  O(1)	  O(1)
+Remove Front	O(n)	  O(1)
+Remove Middle	O(n)	  O(n)
+Remove End	  O(1)	  O(1)
