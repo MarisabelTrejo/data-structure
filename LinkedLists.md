@@ -25,7 +25,7 @@ Lets make a linked list together. We will practice inserting and removing steps 
 ## Problem to Solve
 Pretend you are updating your playlist and going through songs that you don't listen to anymore.
 Practice how we can remove from the middle of your playlist.
-[Together Problem](linked-list-prob.py)
+[Individual Problem](linked-list-prob.py)
 
 ## Solution
 
