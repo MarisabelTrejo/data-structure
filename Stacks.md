@@ -14,6 +14,8 @@ push()
 
 ## Example
 ![Working Together](Images/stack.jpeg)
+
+## Lets Work Together
  - [Together Walkthrough](stacks_tutorial.py)
 
 ## Problem to Solve
@@ -21,6 +23,9 @@ Lets pretend we are putting the books back but come to find out that we are acci
 How would we reverse the order of these auothors without breaking the stack? This will a challenge problem for you to solve.
 
 - [Problem to Solve](stack_problem.py)
+
+## Solution
+- [Look here](stack-solution.py)
 
 
 
