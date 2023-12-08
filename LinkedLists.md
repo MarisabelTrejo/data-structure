@@ -20,12 +20,12 @@ When adding a new node or element in the beginning of the list, we perform a sin
 
 ## Lets Work Together 
 Lets make a linked list together. We will practice inserting and removing steps from the recipe.
-![Together Problem](linked-list-prac.py)
+[Together Problem](linked-list-prac.py)
 
 ## Problem to Solve
 Pretend you are updating your playlist and going through songs that you don't listen to anymore.
 Practice how we can remove from the middle of your playlist.
-![Together Problem](linked-list-prob.py)
+[Together Problem](linked-list-prob.py)
 
 ## Solution
 
