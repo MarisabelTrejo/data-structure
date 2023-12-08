@@ -13,7 +13,7 @@ Each item is in a dynamic array is next to an item in memory. This data structur
 4.	Set the head to equal to the new node
 
 ## Big O Notation
-When adding a new node or element in the beginning of the list, we perform a single operation and Big O will be constant time, or Big O(1), similar to removing a node. The only part that would be O(n) is when we are inserting or adding to the middle of the list.
+When **adding** a new node or element in the beginning of the list, we perform a single operation and Big O will be constant time, or **Big O(1)**, similar to removing a node. The only part that would be **O(n)** is when we are **inserting or adding to the middle** of the list.
 
 ## Examples
 ![example](Images/linkedlist.jpeg)
