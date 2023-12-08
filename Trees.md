@@ -1,5 +1,5 @@
 # Trees
-[Go back to Welcome Page]((https://github.com/MarisabelTrejo/data-structure/blob/main/Welcome.md)https://github.com/MarisabelTrejo/data-structure/blob/main/Welcome.md)
+[Go back to Welcome Page](https://github.com/MarisabelTrejo/data-structure/blob/main/Welcome.md)
 # Introduction
 Just like linked lists nodes are connected together by pointers, so are **Trees**. The difference is that a tree can connect to multiple different nodes. 
 ## Types of Trees
