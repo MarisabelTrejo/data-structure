@@ -21,8 +21,7 @@ push()
  - [Together Walkthrough](stacks-prac.py)
 
 ## Problem to Solve
-Lets pretend we are putting the books back but come to find out that we are accidently starting with authors that start with A insteand of Z.
-How would we reverse the order of these auothors? Go back to the practice and find the comment that says "Problem to Solve"
+How do we know our stack is empty or the length of it? This is a problem for you to solve. Go back to the practice and find the comment that says "Problem to Solve"
 
 ## Solution
 - [Solution](stack-solution.py)
