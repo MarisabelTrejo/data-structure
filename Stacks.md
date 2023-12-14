@@ -21,7 +21,7 @@ push()
  - [Together Walkthrough](stacks-prac.py)
 
 ## Problem to Solve
-Take a look at this stack and see if you find the length of it!
+Take a look at this stack and see if you find the errors and get the length of the stack!
 - [Number Stack](stacks-prob.py)
 ## Solution
 - [Solution](stack-solution.py)
