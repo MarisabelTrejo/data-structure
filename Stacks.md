@@ -21,8 +21,8 @@ push()
  - [Together Walkthrough](stacks-prac.py)
 
 ## Problem to Solve
-How do we know our stack is empty or the length of it? This is a problem for you to solve. Go back to the practice and find the comment that says "Problem to Solve"
-
+Take a look at this stack and see if you find the length of it!
+- [Number Stack](stacks-prob.py)
 ## Solution
 - [Solution](stack-solution.py)
 
