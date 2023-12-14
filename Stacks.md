@@ -24,7 +24,7 @@ push()
 Take a look at this stack and see if you find the errors and get the length of the stack!
 - [Number Stack](stacks-prob.py)
 ## Solution
-- [Solution](stack-solution.py)
+- [Solution](stacks-solution.py)
 
 
 
