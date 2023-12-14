@@ -27,7 +27,6 @@ class Simple_Queue_Authors:
         return value
 
 
-# Scenario: Enqueue authors value and then Dequeue it.
 # Exepcted Result: It should display 100
 
 queue = Simple_Queue_Authors()
