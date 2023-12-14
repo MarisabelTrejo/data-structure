@@ -19,15 +19,16 @@ When **adding** a new node or element in the beginning of the list, we perform a
 ![example](Images/linkedlist.jpeg)
 
 ## Lets Work Together 
-Lets make a linked list together. We will practice inserting and removing steps from the recipe.
+Lets make a linked list together. We will practice inserting and removing ingrdients to a recipe
 [Together Walkthrough](linked-list-prac.py)
 
 ## Problem to Solve
-Pretend you are updating your playlist and going through songs that you don't listen to anymore.
-Practice how we can remove from the middle of your playlist.
-[Problem to Solve](linked-list-prob.py)
+Pretend we are removing an ingrident from the middle of our recipe. Create a function that will allow us to that! Go back to 
+the practice and look for a comment that says "Problem to Solve"
+
 
 ## Solution
+[Solution](likend-list-soluion.py)
 
 
 
