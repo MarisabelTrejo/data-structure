@@ -24,6 +24,9 @@ The root node is the first node that is on top. If the tree is blank and we are 
 
 # Lets Work Together
 Lets practice how to insert nodes in our BST!
-
+- [Practice](trees-prob.py)
 # Problem to Solve
-Lets practice how to add duplicates to our binary search tree.
+Lets figure out how to add duplicates to our binary search tree.
+# Solution
+- [Solution](trees-solution.py)
+
