@@ -20,7 +20,7 @@ When **adding** a new node or element in the beginning of the list, we perform a
 
 ## Lets Work Together 
 Lets make a linked list together. We will practice inserting and removing ingrdients to a recipe
-[Together Walkthrough](linked-list-prac.py)
+- [Together Walkthrough](linked-list-prac.py)
 
 ## Problem to Solve
 Pretend we are removing an ingrident from the middle of our recipe. Create a function that will allow us to that! Go back to 
@@ -28,7 +28,7 @@ the practice and look for a comment that says "Problem to Solve"
 
 
 ## Solution
-[Solution](likend-list-soluion.py)
+- [Solution](likend-list-soluion.py)
 
 
 
